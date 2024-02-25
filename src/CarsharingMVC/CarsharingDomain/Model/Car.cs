@@ -5,7 +5,7 @@ namespace CarsharingDomain.Model;
 
 public partial class Car : Entity
 {
-
+    // 123
     public int ModelId { get; set; }
 
     public int Cszid { get; set; }

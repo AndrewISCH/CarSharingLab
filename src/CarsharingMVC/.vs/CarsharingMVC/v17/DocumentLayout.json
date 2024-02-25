@@ -46,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -58,8 +62,7 @@
               "RelativeToolTip": "CarsharingDomain\\Model\\Rent.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:31:51.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:31:51.358Z"
             },
             {
               "$type": "Document",
@@ -71,8 +74,7 @@
               "RelativeToolTip": "CarsharingDomain\\Model\\Model.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:31:48.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:31:48.463Z"
             },
             {
               "$type": "Document",
@@ -84,8 +86,7 @@
               "RelativeToolTip": "CarsharingDomain\\Model\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:31:44.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:31:44.52Z"
             },
             {
               "$type": "Document",
@@ -97,8 +98,7 @@
               "RelativeToolTip": "CarsharingDomain\\Model\\CarSharingZone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:31:41.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:31:41.972Z"
             },
             {
               "$type": "Document",
@@ -110,8 +110,7 @@
               "RelativeToolTip": "CarsharingDomain\\Model\\Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:30:05.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:30:05.274Z"
             },
             {
               "$type": "Document",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "CarsharingInfrastructure\\CarSharingDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:27:09.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:27:09.113Z"
             },
             {
               "$type": "Document",
@@ -134,7 +132,7 @@
               "RelativeDocumentMoniker": "CarsharingDomain\\Model\\Car.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\ISTTPLab\\src\\CarsharingMVC\\CarsharingDomain\\Model\\Car.cs",
               "RelativeToolTip": "CarsharingDomain\\Model\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T19:22:09.116Z",
               "EditorCaption": ""
@@ -142,15 +140,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CarsharingDomain",
+              "Title": "CarsharingDomain.csproj",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ISTTPLab\\src\\CarsharingMVC\\CarsharingDomain\\CarsharingDomain.csproj",
               "RelativeDocumentMoniker": "CarsharingDomain\\CarsharingDomain.csproj",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\ISTTPLab\\src\\CarsharingMVC\\CarsharingDomain\\CarsharingDomain.csproj",
               "RelativeToolTip": "CarsharingDomain\\CarsharingDomain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-25T19:18:25.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T19:18:25.964Z"
             },
             {
               "$type": "Document",
@@ -162,8 +159,7 @@
               "RelativeToolTip": "CarsharingDomain\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:40:53.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T18:40:53.844Z"
             },
             {
               "$type": "Bookmark",
